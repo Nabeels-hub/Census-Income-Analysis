@@ -38,8 +38,6 @@ SALARY: Income category (<=50K or >50K)
 
 Visualizations:
 
-This project generates various visualizations, including:
-
 Age Distribution: A histogram showing the distribution of respondents' ages.
 
 Relationship Status Distribution: A pie chart displaying the distribution of relationship statuses.
@@ -49,8 +47,6 @@ Salary by Education Level: Stacked bar charts and heatmaps illustrating how sala
 
 
 Results:
-
-Key findings from the analysis include:
 
 Age Distribution: Most respondents are between 30 and 40 years old.
 
