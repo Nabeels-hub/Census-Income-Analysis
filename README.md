@@ -4,6 +4,7 @@ Overview:
 
 This project performs exploratory data analysis (EDA) on a census income dataset, focusing on factors such as age, education, occupation, relationship status, and their relation to income. The goal is to uncover trends and insights into the income distribution of individuals based on these factors. The analysis includes data cleaning, statistical analysis, and visualization techniques.
 
+
 Dataset:
 
 The dataset contains demographic information about individuals, including:
@@ -33,6 +34,7 @@ HOURS-PER-WEEK: Hours worked per week
 NATIVE-COUNTRY: Country of origin
 
 SALARY: Income category (<=50K or >50K)
+
 
 Visualizations:
 
