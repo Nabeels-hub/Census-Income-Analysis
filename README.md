@@ -5,7 +5,7 @@
 This project performs exploratory data analysis (EDA) on a census income dataset, focusing on factors such as age, education, occupation, relationship status, and their relation to income. The goal is to uncover trends and insights into the income distribution of individuals based on these factors. The analysis includes data cleaning, statistical analysis, and visualization techniques.
 
 
-Dataset:
+## Dataset:
 
 The dataset contains demographic information about individuals, including:
 
@@ -36,7 +36,7 @@ NATIVE-COUNTRY: Country of origin
 SALARY: Income category (<=50K or >50K)
 
 
-Visualizations:
+## Visualizations:
 
 Age Distribution: A histogram showing the distribution of respondents' ages.
 
@@ -46,7 +46,7 @@ Salary by Education Level: Stacked bar charts and heatmaps illustrating how sala
 
 
 
-Results:
+## Results:
 
 Age Distribution: Most respondents are between 30 and 40 years old.
 
